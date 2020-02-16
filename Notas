@@ -122,3 +122,29 @@ Recibiendo de los Juzgados
       </div>
     </div>
     <div class="clearfix-padding"></div>
+
+-------------------------------------------------------------------------------------------------------------
+
+Bandeja de Entrada (Atlante II)
+-------------------------------
+
+(Todos los días, configuramos como se señala abajo, damos a la lupa, y luego a cada documento que salga, damos a aceptar)
+
+Opcion: Aceptación de documento
+Organo judicial: S/C de Tfe Juzgado de menores 1 / Juzgado de menores 2
+Tipo:
+        - Expediente de ejecución
+        - Expediente de reforma (menores)
+        - Expediente de ejecución civil 
+        - Pieza separada de responsabilidad civil 
+
+
+Opción: Procedimiento remitido 
+Organo judicial: Juzgado de menores 1 / Juzgado de menores 2
+
+-------------------------------------------------------------------------------------------------------------
+Quieren conocer Nº Procedimiento por Ampliatoria
+------------------------------------------------
+- (en Menú) Registrar / Escrito 
+- Tipo de Escrito: (seleccionamos) Ampliatoria
+- (arriba) Nº denuncia ---> sale Nº Procemiento
